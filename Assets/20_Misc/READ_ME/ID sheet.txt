@@ -1,0 +1,55 @@
+
+##################### GENERAL SETTINGS ##############################################################################################################################################################
+
+Company name: 				Your Company
+
+Product Name: 				GAME NAME
+
+################################################# iOS IDs ###########################################################################################################################################
+
+	
+Bundle Identifier: 			com.SOMETHING.game.NAME
+
+Bundle version: 			1.0.0
+
+Short Bundle version: 		1
+
+App ID: 					APPID
+
+iApPurchases			Product ID							Reference Name: 		Display Name	 Price Tier
+#####################################################################################################################
+
+Package 1		“coin.package.1” 				(pasteIDhere_InApp1) 		(Package 1) 	(Tier 2)
+Package 2		"coin.package.2” 				(pasteIDhere_InApp2) 		(Package 2) 	(Tier 3)
+Package 3 		"coin.package.3” 				(pasteIDhere_InApp3) 		(Package 3) 	(Tier 6)
+Package 4 		"coin.package.4” 				(pasteIDhere_InApp4) 		(Package 4)	 	(Tier 10)
+Package 5 		"coin.package.5” 				(pasteIDhere_InApp5) 		(Package 5)	 	(Tier 20)
+Package 6 		"coin.package.6” 				(pasteIDhere_InApp6) 		(Package 6)	 	(Tier 54)
+Package 7 		"coin.package.offer1” 			(pasteIDhere_InApp_Offer1) 	(Package 7)	 	(Tier 3)
+Package 8		"coin.package.offer2” 			(pasteIDhere_InApp_Offer2) 	(Package 8)	 	(Tier 6)
+Package 9		"coin.package.offer3” 			(pasteIDhere_InApp_Offer3) 	(Package 9)	 	(Tier 20)
+
+APPLOVIN SDK KEY:			APPLOVINSDKKEYLONGKEY
+
+LEADERBOARD ID:				best_players.SG
+
+
+################################################# ANDROID IDs ###########################################################################################################################################
+
+
+Bundle Identifier: 		com.bocean.SlotsGame
+
+Base64 public key:		MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxghRWt1D05UL4+h3V9Ncl08efUxH7HVU/l4xPGtO+Fh0gXyxxAgsYj8taNr2aO9IJfxKGlpIIv08Zhy1CcbClAuQWSj2Sr8hz6AB9XEtCOhDxc1K0ze2QD7/u2PjnQUhyLt94tdHFT2Vr832dzIvDqI11N3ikPwWUXxBSAwjYl/x94BEh51JF3Ucap1e4ckWVt9wAPEhMgTKOy6BMQrb9Z22JmnyLxCVWvo5rePRakSZSgSJS7wzbAhWqru9lMsx9NQjnFP87tzT3y9Xe/WdEnOlJ2yfaHhRGFfCeMc3udjdyy3RV2cb9kx23KJV9d8SRxgQI4bF54azR9VdZ7YJKwIDAQAB
+
+iApPurchases			Product ID
+#####################################################################################################################
+
+Package 1		“com_slotsgame_coin_package_1” 			
+Package 2		“com_slotsgame_coin_package_2”		
+Package 3 		“com_slotsgame_coin_package_3”		
+Package 4 		“com_slotsgame_coin_package_4”	
+Package 5 		“com_slotsgame_coin_package_5”		
+Package 6 		“com_slotsgame_coin_package_6” 			
+Package 7 		"com_slotsgame_coin_package_offfer1” 		
+Package 8		"com_slotsgame_coin_package_offfer2” 		
+Package 9		"com_slotsgame_coin_package_offfer3” 		

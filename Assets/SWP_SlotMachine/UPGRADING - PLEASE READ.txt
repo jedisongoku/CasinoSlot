@@ -1,0 +1,5 @@
+If you are upgrading from version 1.x or from version 2.0 beta please make sure you read the documentation section on upgrading as there are some important changes.
+
+Thank you, 
+
+Justin.
